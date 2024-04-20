@@ -1,1 +1,2 @@
 wku
+computer science
